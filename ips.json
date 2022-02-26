@@ -1,6 +1,9 @@
-{
-                                           " Distrito RP " : {
+{ 
+                                           " localhost madrid" : {
         " mensaje " : " ! ip 90.75.140.14"
+    },
+                                           " localhost ciudad real " : {
+        " mensaje " : " ! ip 90.166.102.195"
     },
 
 }
